@@ -1,1 +1,5 @@
-# RUTweets-Mining
+# Russian Tweets Text Mining
+
+For my project, I chose to perform text analysis on Russian tweets that were pre-classified as having a positive or negative connotation to them. Specifically, I chose to look at the frequency of the most common words, and also the most common lemmas (roots). This was done primarily through utilizing the Natural Language Toolkit (nltk) library for Python as well as pandas. What I found was that positive tweets seem to talk more about today, use pleasant adjectives, and are normally talking about something funny. Negatives tweets seem to be about painful topics, like school and the future, and use a lot more swear words.
+
+In terms of future motivation, my results could be combined with the notebook we did in class to determine whether or not a tweet is spam. This could be extremely useful, especially with the current election meddling happening on social media networks. However, a different dataset would probably need to be used, as these seem to be real tweets and do not cover political topics.
